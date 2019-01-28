@@ -1,6 +1,7 @@
 # Learn Python 3 the Hard Way
 # Exercise 6
 
+#Variable declaration.
 formatter = "{} {} {} {}"
 
 print(formatter.format(1, 2, 3, 4))
