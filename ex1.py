@@ -1,6 +1,7 @@
 #Learn Python 3 The Hardway
-
 #Exercise 1
+
+#some print commands:
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
