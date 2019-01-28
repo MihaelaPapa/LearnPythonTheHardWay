@@ -1,4 +1,4 @@
-#Learn Python the Hard Way
+#Learn Python 3 the Hard Way
 #Exercise 5 - Practice
 
 name= "Mihaela"
