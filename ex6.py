@@ -30,4 +30,5 @@ print(joke_evaluation.format(hilarious))
 w = "This is the left side of..."
 e = "a string with a right side."
 
+#print the concation of the 2 strings declared above
 print(w + e)
