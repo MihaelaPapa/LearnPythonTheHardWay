@@ -1,5 +1,5 @@
 # Learn Python 3 the Hard Way
-# Exercise 11
+# Exercise 12
 
 #print("Hello!")
 age = input("How old are you? ")
