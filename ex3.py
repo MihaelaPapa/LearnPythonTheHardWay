@@ -1,4 +1,5 @@
-#Learn Python the Hard way - exercise 3:
+#Learn Python 3 The Hardway
+#Exercise 3:
 
 print("I will now count my chickens:")
 

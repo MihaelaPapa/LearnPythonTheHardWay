@@ -1,3 +1,6 @@
+#Learn Python 3 The Hardway
+#Exercise 2
+
 # A comment, this is so you can read your program laterself.
 # Anything after the # is ignored by Phyton.
 
