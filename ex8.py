@@ -1,5 +1,5 @@
 # Learn Python 3 the Hard Way
-# Exercise 6
+# Exercise 8
 
 #Variable declaration.
 formatter = "{} {} {} {}"

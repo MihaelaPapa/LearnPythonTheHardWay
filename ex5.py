@@ -1,5 +1,5 @@
 # Learn Python 3 the Hard Way
-# Exercise 4
+# Exercise 5
 
 name = 'Zed A. Shaw'
 age = 35 # not a lie
